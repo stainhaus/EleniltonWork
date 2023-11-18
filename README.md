@@ -1,3 +1,8 @@
+APLICAÇÃO
+
+Esta aplicação serve para jogadores de RPG, ela se baseia nos dados que utilizam no jogo. Na aplicação, você pode designar qual a quantidade de lados o dado que você deseja rolar possua, assim que digitar, poderá rolar o dado resultando em algum valor que esteja presente nesse dado.
+
+
 JAVA
 
 A parte do código em JAVA é uma aplicação Spring Boot que contém um controlador Rest (RolagemController).
